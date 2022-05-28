@@ -12,7 +12,7 @@ The passwords are generated server-side via a small PHP script using some word-l
 The HTML used is as basic as I can make it, so that it is responsive and lightweight.
 
 # Usage
-You should definately self-host this on an SSL secured website that you have full control over.
+You should definitely self-host this on an SSL secured website that you have full control over.
 
 # Licence
 MIT
